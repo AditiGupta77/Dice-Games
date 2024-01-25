@@ -1,8 +1,10 @@
 # Dice Game
 
+https://github.com/AditiGupta77/Dice-Games/assets/113333470/0a66dc22-a638-416e-9859-6e386c63cac5
+
 ## Overview
 
-Welcome to the exciting world of the Dice Game! This mobile app offers a fun and interactive experience where you can accumulate coins by rolling the dice. Developed by Yash Shardendu Agrawal and Hrushikesh Kadam, this game provides a thrilling opportunity to test your luck and strategy.
+Welcome to the exciting world of the Dice Game! This mobile app offers a fun and interactive experience where you can accumulate coins by rolling the dice. This game provides a thrilling opportunity to test your luck and strategy.
 
 ## Features
 
