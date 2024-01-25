@@ -50,3 +50,4 @@ The Accessibility Scanner provided valuable suggestions for improving accessibil
 - **Difficulty Level:** 9 out of 10
 
 Feel free to roll the dice and enjoy the Dice Game! 🎲
+:
